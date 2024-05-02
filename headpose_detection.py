@@ -232,6 +232,6 @@ def headpose_main(video_path : str):
     return main_lst
 
 if __name__ == '__main__':
-    headpose_lst  = headpose_main(video_path='data/op.mp4')
+    headpose_lst  = headpose_main(video_path='data/video.mp4')
     with open('data/headpose_lst.pkl','wb') as file:
         pickle.dump(headpose_lst, file)
