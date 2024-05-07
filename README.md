@@ -25,8 +25,5 @@ Ai based proctoring system to conduct & invigilate the examination. Examiner is 
 1. Response time of alert
 2. Module performance testing
 
-# Demo video to detect the cheating :
-https://youtu.be/td8NpTZUuC0
-
 # Implementation :
 Python codes socket with JS to have client sided feature to maintain high precision and low latency application.
