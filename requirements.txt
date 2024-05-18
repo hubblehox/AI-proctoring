@@ -98,7 +98,7 @@ threadpoolctl==3.5.0
 torch==2.3.0+cu118
 torchaudio==2.3.0+cu118
 torchvision==0.18.0+cu118
-tqdm==4.66.2
+tqdm==4.66.3
 typing_extensions==4.9.0
 tzdata==2024.1
 ultralytics==8.2.5
