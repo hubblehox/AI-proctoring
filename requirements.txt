@@ -107,3 +107,4 @@ Werkzeug==3.0.3
 wrapt==1.16.0
 zipp==3.18.1
 wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
